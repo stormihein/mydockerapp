@@ -12,4 +12,4 @@ git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
 #yesssiiiiiirrrrr
 yeppp
-#chevy has 100 corvettes on the lot 
+chevy has 100 corvettes on the lot 
