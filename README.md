@@ -13,3 +13,4 @@ cd yourrepo
 #yesssiiiiiirrrrr
 yeppp
 chevy has 100 corvettes on the lot ddddyrukjrtejkdt
+ a read me file is here tyo giuve the over view of the challenge , that way the instructor can check my work and make sure everything is functional 
